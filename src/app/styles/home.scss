@@ -17,8 +17,8 @@
         justify-content: center;
         flex-direction:column ;
         gap: 24px;
-        grid-area: btns;
         width: 100%;
+        
 
         .primary-btn {
             background: linear-gradient(90deg, #777CF4 2.62%, #F47777 93.38%);
@@ -34,6 +34,7 @@
              align-items: center;
              gap: 20px;
              justify-content: center;
+             text-decoration: none;
         }
     }
 
