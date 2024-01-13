@@ -14,7 +14,7 @@ export function Header(){
            />
    
          <div>
-           <h1>Hi i'm Deivid Martins 👋🏿</h1>
+           <h1>Hi i'm Deivid Martins </h1>
            <h2>FullStack Developer JR</h2>
          </div>
          </div>
